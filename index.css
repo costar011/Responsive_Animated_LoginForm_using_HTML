@@ -26,6 +26,13 @@ body {
   align-items: center;
 }
 
+.login-box label{
+  position: absolute;
+  top: 50%;
+  left: 5px;
+}
+
+
 
 h2 {
   font-size: 2em;
